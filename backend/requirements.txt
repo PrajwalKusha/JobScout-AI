@@ -7,3 +7,4 @@ pdfplumber
 undetected-chromedriver
 email-validator
 pydantic
+setuptools
