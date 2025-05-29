@@ -12,3 +12,5 @@ beautifulsoup4
 selenium
 aiohttp
 sendgrid
+python-multipart
+
