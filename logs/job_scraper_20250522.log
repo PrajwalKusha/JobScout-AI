@@ -1,0 +1,399 @@
+2025-05-22 10:27:12,335 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:27:15,720 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:27:15,720 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:27:22,755 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bo31RVmdkw5vQjGIRdvR91C8LyiQ62zsY7_1VlbtgjgCScDfWPN6jcvxmVQNl1JRGNx4K294xaySYk6Z9LK6wkIN9qGUHe77liRpj0kI-NNuVdc2sBhJ9f_ENvVlAscQdVgCOuuXAczJHsw1i69NezAQQN1AhidaGOspbtTjah7FbLPprLR7hYwkHlzDMAyvjzptCFNnMGe82zL-KX9udYe5qEq74sMN_QqkGwF-iRafTI95-4Gsx13v7qYTFfzFIWJ-0sfgQw-nCIFs1EQojdS7-oyuIY_qjKU9TPisWTfKzvqXScEOioZH2WprrS4xUCZOj-2xxwbSsEqedAPWNLNAXYzg0POSs_zwskBUcOz7w1swPr0iPIrOxJCPhdUSJUj78fD4j_ORkq-iwDTkdz9Tg8lbYhJt49SVvudJR4Kr9OsuL8aQVs3RKIu1ffzD0Q4z9-1zFg9cSgIlDjd6v0_FILbKJR9fhLwrWHPbGAIjfF2Yo5VG2NC-XhYjcrLDimxY5aI7j3RbVUC6hNTEgmGo7kII0Gbn8zPqB-nxW60lIDD5bY5LJbFqYuZ6e6frhUhnUbQEywQ2ylX21dCzDl-sQinFl8kYhHAAlwXpDJOYNv0BqlnzJw&xkcb=SoCf6_M3y8EuWmTbix0IbzkdCdPP&camk=4HOcmqOLYrA_GNp6SM59Tw==&p=0&fvj=0&vjs=3
+2025-05-22 10:27:27,673 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:27,673 - job_scraper - INFO - Successfully scraped job: Financial Analyst
+2025-05-22 10:27:27,673 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=e9f1aff8cd42bad8&bb=B9jYSaV1gfgmm-L64T5NQWoQFOJNAMxODYzE2hvpi8fYKNoqYZ3Om7XUIjite03Ey3MXtJHIKfNgHXWUuDhJBOxKcNQe4qwH24HHWMXRfQViiv-4B4XJY8vaEXavGfWUeWM8WH3xbuNS7wDwFPCKKw%3D%3D&xkcb=SoDl67M3y8EuWmTbix0PbzkdCdPP&fccid=27ac7273a8266cff&vjs=3
+2025-05-22 10:27:33,479 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:33,479 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:27:33,480 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=94eaf09845588ad9&bb=B9jYSaV1gfgmm-L64T5NQWLwloBvDfgYGnT-Z7PNVRCr7seKeNbwU1ta05C-xSLQDPiWPpJ80C9huMw1ePiS_tyj-wcLz1ZWIzbUvyMEXVfL8QK6YJHQ7OZNVLt2qxWHdoZbu6oIZTXDlZs4K_GaKg%3D%3D&xkcb=SoBR67M3y8EuWmTbix0ObzkdCdPP&fccid=0cdf6f2fcdb7fa0c&vjs=3
+2025-05-22 10:27:40,779 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:40,779 - job_scraper - INFO - Successfully scraped job: Data Reconcilliation Analyst - Excel, SalesForce, SCSEP experience a plus
+2025-05-22 10:27:40,780 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=0b70bd11f6c33979&bb=B9jYSaV1gfgmm-L64T5NQVNEEr6TUXtc-EgQWzbSn527DeTB8oTpR9t-Wu9Tjuq7H8t2EgEqKe_ict2k19pXj1QZiH4TBeS1NQpXFApashuEf3ioc3U5HBo5kgnZ9ZQVB7MVvNxC5drtPNS-zXb6og%3D%3D&xkcb=SoDM67M3y8EuWmTbix0NbzkdCdPP&fccid=ed6233c252f25b6e&vjs=3
+2025-05-22 10:27:45,280 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:45,280 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:27:45,280 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=9fb9f5ce80dfabc0&bb=B9jYSaV1gfgmm-L64T5NQd2ay80YzKkvEy1ydPtsZlRLB-YpixAbW2s1qcOHZ4W2lLHJNgVLAMNj-Jhw0elSNEEIDIRZI_tCJ98ZEtyGuzbko2DOvmy-dPvVlfZK0O552B7XXUxVdqFhjpXSw57fhA%3D%3D&xkcb=SoB467M3y8EuWmTbix0MbzkdCdPP&fccid=5b1f700c72af0817&vjs=3
+2025-05-22 10:27:49,511 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:49,511 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:27:49,511 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=71b633f8f2d80d15&bb=B9jYSaV1gfgmm-L64T5NQVNEEr6TUXtcYcLV1CNPkgd4lU2vYipDxKsSdoGwSGrlBKZAtR1DBVey5C8kAJ8nyaivuvyaOOnGVUSm7SPFoaqBJqfhCoTuxIyLyOaBe8fEbxbxePAnc9ucPXTuJ9qwSw%3D%3D&xkcb=SoCR67M3y8EuWmTbix0DbzkdCdPP&fccid=ec2f5e47ad7a69a2&cmp=Gridiron-IT&ti=Business+Analyst&vjs=3
+2025-05-22 10:27:53,983 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:53,983 - job_scraper - INFO - Successfully scraped job: Business Analyst
+2025-05-22 10:27:53,984 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=794c42f80d70db38&bb=B9jYSaV1gfgmm-L64T5NQQnaQrus3F_R8C6jkb23tMkqw9WCnUnFUA8UErPguEauUMa996PkEnBz4GvDS86guReBMKtDk34say_OGxDSx3IWhBb76nOF4UyTVx9Jwkhs8J79uNk1ROY%3D&xkcb=SoAl67M3y8EuWmTbix0CbzkdCdPP&fccid=fdcf980c211a3f6d&vjs=3
+2025-05-22 10:27:59,294 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:27:59,294 - job_scraper - INFO - Successfully scraped job: Performance Management and Data Analyst I, Grade 21
+2025-05-22 10:27:59,294 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=d907c4d62cf507e1&bb=B9jYSaV1gfgmm-L64T5NQT6mHmLTDJibdXS70imjqDCCOpuCWcO_E90cmxGYeoMuqxk6m7YB-qYRCT1mQ-oMpgPcPwFMuaUNbSx9ukciMzMxZpPQLexxNNg6J7eGecQF9Z6_ip_kXEemMs6KR3Qy7Q%3D%3D&xkcb=SoC467M3y8EuWmTbix0BbzkdCdPP&fccid=caed318a9335aac0&vjs=3
+2025-05-22 10:28:06,135 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:28:06,135 - job_scraper - INFO - Successfully scraped job: Criminal Intelligence & Data Analyst - USDS
+2025-05-22 10:28:06,135 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=cacfd0305a2484bc&bb=B9jYSaV1gfgmm-L64T5NQT6TxY5AXdiHfUCUdhZ-iFi2OGlVdi_KyLEo7LHkMjOMerOQvjiYM2Vjov4Z8H11FB2V14tqI_UK_p59TfM8nL_6CZNOfj2sZ1lHmhuBmyz8xHMQWCe2OpH4gGUCYr_F8Q%3D%3D&xkcb=SoAM67M3y8EuWmTbix0AbzkdCdPP&fccid=516c946dc3c9f33f&vjs=3
+2025-05-22 10:28:11,544 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:28:11,544 - job_scraper - INFO - Successfully scraped job: Data Operations Analyst
+2025-05-22 10:28:11,544 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=e5ec7a8fa4b62933&bb=B9jYSaV1gfgmm-L64T5NQZ27NQiwRTjHXU76lOHFkaWztgAW4w_8sFkF_bvEq0JAnw57b-th6qr9pyq_V0EoBj_cZlSLQKH1w9vGEFQ1E-orw842ccT9h70mEve5NgnXqk2HpHU9pVQ%3D&xkcb=SoCC67M3y8EuWmTbix0HbzkdCdPP&fccid=9ee077797b9fc8fe&vjs=3
+2025-05-22 10:28:17,528 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:28:17,529 - job_scraper - INFO - Successfully scraped job: Analyst - Systems
+2025-05-22 10:28:17,765 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:28:17,766 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 10:31:50,992 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:31:53,377 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:31:53,377 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:32:00,457 - job_scraper - WARNING - Retry 1/3 after error: No job cards found on the page
+2025-05-22 10:32:05,471 - job_scraper - WARNING - Retry 2/3 after error: No job cards found on the page
+2025-05-22 10:32:22,553 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dtj1cNOliXMxiNeZOfjnyMOxYM0bdL6HKdUY1TQK4VE_40R8R3vbB6Q-r65afrtIhna3ykd0rQfZNToFuSazgIOBmT6d0QkwMPVkgAPzrUNF8g9Ug0VRkw2PMS01X-AJyy4NtxpdQ0UJA6VsKeh2-3-U0VSwlhMyPMgrFR0BfR3Zf4bJ0__7Gb5qHwBnvY5Er6ZmBHi8DPE1tL4-AYdPCxuZYwsWOolOoYeDtQjpXPYpj_H7pOrATxpEyxFihRzZz0a_eYyo2wJzxfnyrh5D4ZavQyZlFTBfeMd_YJWBtRESzuPvoC1DVNGRj1snBYDjLI8ZRc3N8Z1jmdhO2cO1-sNipvhTQWOzgsvMQmzZ6UfRe_jHA4C_WdvpxaSbo3mnRLJ--szz64X4qaJo07mQJ-aMp1ijDmGoV_JzTYA-W3Rshc3gNJIKMKglMpTkRsQsHIxbLYPRaK0Jq1UUycsVjxige0-PqItRHzMJ9o6njsUWFmcP3C5YUQ97zmpoxsvM4Tb4bCGJvQghn4p3GtpmoDUDDW3aQmQRSVA9sNrj4I2QUOe0YCsGGL2Rs27Rud14aN3f_L-QkL6VOphRCO4yLsXEp0y4_HioTQdqeTRt191IXqYI1LtuQBbRj60GzF-FZLBKq_5qD0V5CWTbnIpqqPi5Ssws29oRRVJ0VCSW3al8J2d21-ffnB&xkcb=SoCf6_M3y8FKeqW0Lx0LbzkdCdPP&camk=nUmJqO2E8ri7IdSxa0Owdw==&p=0&fvj=0&vjs=3
+2025-05-22 10:32:26,912 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:32:26,912 - job_scraper - INFO - Successfully scraped job: Data Visualization Analyst
+2025-05-22 10:32:32,852 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bo31RVmdkw5vQjGIRdvR91C8LyiQ62zsY7_1VlbtgjgCScDfWPN6jcvxmVQNl1JRGNx4K294xaySYk6Z9LK6wkIN9qGUHe77liRpj0kI-NNuVdc2sBhJ9f_ENvVlAscQdVgCOuuXAczJHsw1i69NezAQQN1AhidaGOspbtTjah7GTKt8OZ2Ubsg2U92X8Kb5hhnWSTqVdU5aaA-Dt4aNRs4QWZjCD2_M4ZwC9vWvPCKIxdNbBkHRrqykXDQfsb0GXHl8zW079-kYAxpUgA8m5erVdH_j-pLf962UKRDfRCJN5wQAF0U4EwurkCXSTowaKWYdWtmn2zcGj9U4Ay1mC-nhQcCHx9bfvUEA771W4AWSDiSixDmhKQtPEkft-GiLotUTxrG1aUPrTnpt1IBZC-t8ijb_OPSMUI4QkqCgOEA4bkA0Ga8w6mT_f2-iCy97mg3Jpnnt5UvHxUkEa_ZxaqQgXHpgN8eyomKzDkJz-27KNysSgjdfbHqGr9QL5c9IRAOvbkCxJRJpRcGd4OAmw6iWfI_vlTW5EU65DVMkVAz8--SrhIwJ3uezc_R0IUTtfB4qluon69zay8sUF-ff8yvhykJyHUxeYGbsZapIGc82QGWlwort0K&xkcb=SoAr6_M3y8FKeqW0Lx0KbzkdCdPP&camk=4HOcmqOLYrA_GNp6SM59Tw==&p=1&fvj=0&vjs=3
+2025-05-22 10:32:38,251 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:32:38,251 - job_scraper - INFO - Successfully scraped job: Financial Analyst
+2025-05-22 10:32:43,809 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DiLumex8-O4_3W00CpKjtdqHljaYYyDXN4bZlovzQUThTY6M3ePYtQoXox3A4LxKXIy0VehvujAaKF-veHkEr47XLCVJT_n7HjcP7gOe70-LsrmmPiVcfEupMaeQGjjtIPDVehg4M9Knk8jLvvGfV9RQS_OaZN1KWx3O_Dot00ENNs-YGwq0M1dS0pEsDuR3XsbCphTg_QXZQn80QerE5vUlPRLZUnCRFfRfCndzfUaPv0HaYsFVp-J7cZod8aEHAhk2HegbigSRg8LpBBc8pkwpULSdzAf9-O15lMfLlbopFG-vM8PQV_guS5STBFmfjI9YLbyL9b6sJzobkoM4RnwH40vDttS14tp4YsjWGOpZiHM_UtZBRq-lwWgDez3d8I-uiE-ikCgxS6V9hkh7yjJIwgHpYIRG59assUg1aACY39DVKkxPDt-e7LnsDWaanNo5vLoW8RSSlR_5Yg4D2_FAR1zsZqtZiS7JbzyXAQ-17aIw9bQkPWAX_8U2vheiY9XMcXiDt_8Px7VRMpPmxxEkVNoMTPKBM1T5tZYgLuSH10wLjvkFuZmSaACRDbWn8azUjbM8RIBJqfSywGx043B262cYy4e7g1KQ9MGrloVSU1G_jNpQZaUfAbRW6-7u7L_NLbMoe1IL3TCaqW_8INetFkqzAiQfo3-wn3a_SuUzUFuyPyUN5V8FB8M-8RpOACAZFipf3g7tvrOP6nbJVOlGcUhiSLKdR9xGKaKLnVkwVMMUGe4PjWuW0Gx4TKEncJifgL3fVOQleqCEf1CIoErFzId1V1g_whAxgbCZHIBP1jwlj-viPKcmzFZDpdx5vIvn76Pd-CJQ==&xkcb=SoC26_M3y8FKeqW0Lx0JbzkdCdPP&camk=xqnMBGaf-K_LDBvAE-3Zhw==&p=2&fvj=0&vjs=3
+2025-05-22 10:32:50,346 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:32:50,346 - job_scraper - INFO - Successfully scraped job: Senior Business Analyst, Auto Lending Products
+2025-05-22 10:32:55,811 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=e9f1aff8cd42bad8&bb=YMULHL9HyLu1yAQFLeLjkWAJDN23H0V48uDfGJGnJV_l5sh1OTXx3R_0pH5O1uEex2W1vGZt77BfGRZBoYMDnAKBDWP75H7gkV-zbMPXErMmmxCfwjMpxU2CPrKpFexZf2T7hufaNBP5pYyw69GIJg%3D%3D&xkcb=SoD267M3y8FKeqW0Lx0IbzkdCdPP&fccid=27ac7273a8266cff&vjs=3
+2025-05-22 10:33:00,493 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:00,493 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:33:06,687 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=94eaf09845588ad9&bb=YMULHL9HyLu1yAQFLeLjkSoK9T1J2qD7buvau5Fkb0Qamjnz3smp7Ry3wUvyeGJPyzWFTo3m_1Kityf53_BAxq2i4vzu2aJOF1-d8geRhGrPxc4zww0ywtxWThzj4Z9ARjwRp8Vx_b-jqoiEgJqpvw%3D%3D&xkcb=SoB467M3y8FKeqW0Lx0PbzkdCdPP&fccid=0cdf6f2fcdb7fa0c&vjs=3
+2025-05-22 10:33:10,592 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:10,592 - job_scraper - INFO - Successfully scraped job: Data Reconcilliation Analyst - Excel, SalesForce, SCSEP experience a plus
+2025-05-22 10:33:17,264 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=0b70bd11f6c33979&bb=YMULHL9HyLu1yAQFLeLjkZ-blkqJrk7ZdXC5p2zVVSnZfLG8oZa7jR0iH0kBn92OfPteKTGePb-sdNfavNX6FKPAGT_wsHz363QkpuGTiLcLHtZ2VzCvyZzvTSKIP19vWIXe6p7cKRoREaDrqEQwIQ%3D%3D&xkcb=SoDM67M3y8FKeqW0Lx0ObzkdCdPP&fccid=ed6233c252f25b6e&vjs=3
+2025-05-22 10:33:23,406 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:23,406 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:33:30,765 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=9fb9f5ce80dfabc0&bb=YMULHL9HyLu1yAQFLeLjkUqXz2msJvfKDuxoyn3zrErx0jlDJ9u5xEO_ZBjX6AalX7cok9VyBLqE4xPg-RGmuRUVOaH0RE2MbXgNVOQHVnKakZ1kDEie-qm2uATKC8zbVxOS5Zd6gGR0EkDhn6zP8w%3D%3D&xkcb=SoBR67M3y8FKeqW0Lx0NbzkdCdPP&fccid=5b1f700c72af0817&vjs=3
+2025-05-22 10:33:35,342 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:35,342 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-22 10:33:41,306 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=71b633f8f2d80d15&bb=YMULHL9HyLu1yAQFLeLjkZ-blkqJrk7Z_ESBLFIfDGDNzM-Ztx5eCdUes00lVgSnVZj3sdjkzN3KchUn5TXnR9_XZEKpVClWYMdBQhlisXqK5G1tezAfOBuxYwaRPBHaU6SlUNkJ5e5T4I3RDC-vgw%3D%3D&xkcb=SoDl67M3y8FKeqW0Lx0MbzkdCdPP&fccid=ec2f5e47ad7a69a2&cmp=Gridiron-IT&ti=Business+Analyst&vjs=3
+2025-05-22 10:33:47,728 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:47,728 - job_scraper - INFO - Successfully scraped job: Business Analyst
+2025-05-22 10:33:55,261 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=794c42f80d70db38&bb=YMULHL9HyLu1yAQFLeLjkXv8SmZrKS_fU3YNvzpeT6d2CD2t0jc4LQa1E_KUBW94U6tnPEo284vCy62wC86v07Mi0h9PH2SN_SQjtpxPBoKO9UopGn2vXd-wD9XNXDnLt9LbC6itZJU%3D&xkcb=SoAM67M3y8FKeqW0Lx0DbzkdCdPP&fccid=fdcf980c211a3f6d&vjs=3
+2025-05-22 10:33:59,689 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:33:59,689 - job_scraper - INFO - Successfully scraped job: Performance Management and Data Analyst I, Grade 21
+2025-05-22 10:34:05,666 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=d907c4d62cf507e1&bb=YMULHL9HyLu1yAQFLeLjkYGcQDiJGbbO5uWZ9K4J3UKi358KtsozljnLnw54Gx2usjOmoGQYBssHGDx8oEZo3vWXcCHV4dpwl9tKhhBsQJR3RkT-nXjK0mOxAL_waQgiNyywQShyCrD-oaBr__QBTA%3D%3D&xkcb=SoC467M3y8FKeqW0Lx0CbzkdCdPP&fccid=caed318a9335aac0&vjs=3
+2025-05-22 10:34:12,267 - job_scraper - INFO - Successfully fetched job details
+2025-05-22 10:34:12,267 - job_scraper - INFO - Successfully scraped job: Criminal Intelligence & Data Analyst - USDS
+2025-05-22 10:34:12,532 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:34:12,533 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 10:37:05,465 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:37:08,061 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:37:08,062 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:37:10,768 - job_scraper - WARNING - Retry 1/3 after error: No job cards found on the page
+2025-05-22 10:37:12,785 - job_scraper - WARNING - Retry 2/3 after error: No job cards found on the page
+2025-05-22 10:37:16,795 - job_scraper - ERROR - Job scraping failed: Failed to scrape jobs after 3 attempts: No job cards found on the page
+2025-05-22 10:37:16,947 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:37:16,947 - job_scraper - ERROR - Job scraping failed: Job scraping failed: Failed to scrape jobs after 3 attempts: No job cards found on the page
+2025-05-22 10:38:37,897 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:38:40,351 - job_scraper - ERROR - Failed to setup Chrome driver: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+0   undetected_chromedriver             0x00000001025c3898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x00000001025ba9ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000102073600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x00000001020a057d undetected_chromedriver + 599421
+4   undetected_chromedriver             0x00000001020a1cc5 undetected_chromedriver + 605381
+5   undetected_chromedriver             0x000000010209cd31 undetected_chromedriver + 585009
+6   undetected_chromedriver             0x00000001020f7d0c undetected_chromedriver + 957708
+7   undetected_chromedriver             0x00000001020f753a undetected_chromedriver + 955706
+8   undetected_chromedriver             0x00000001020f92dc undetected_chromedriver + 963292
+9   undetected_chromedriver             0x00000001020f9096 undetected_chromedriver + 962710
+10  undetected_chromedriver             0x00000001020eb0e3 undetected_chromedriver + 905443
+11  undetected_chromedriver             0x00000001020b761d undetected_chromedriver + 693789
+12  undetected_chromedriver             0x00000001020b8281 undetected_chromedriver + 696961
+13  undetected_chromedriver             0x0000000102581560 undetected_chromedriver + 5715296
+14  undetected_chromedriver             0x0000000102585425 undetected_chromedriver + 5731365
+15  undetected_chromedriver             0x000000010255beb0 undetected_chromedriver + 5562032
+16  undetected_chromedriver             0x0000000102585e5b undetected_chromedriver + 5733979
+17  undetected_chromedriver             0x000000010254adc4 undetected_chromedriver + 5492164
+18  undetected_chromedriver             0x00000001025a8a78 undetected_chromedriver + 5876344
+19  undetected_chromedriver             0x00000001025a8c40 undetected_chromedriver + 5876800
+20  undetected_chromedriver             0x00000001025ba591 undetected_chromedriver + 5948817
+21  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:38:40,351 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+0   undetected_chromedriver             0x00000001025c3898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x00000001025ba9ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000102073600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x00000001020a057d undetected_chromedriver + 599421
+4   undetected_chromedriver             0x00000001020a1cc5 undetected_chromedriver + 605381
+5   undetected_chromedriver             0x000000010209cd31 undetected_chromedriver + 585009
+6   undetected_chromedriver             0x00000001020f7d0c undetected_chromedriver + 957708
+7   undetected_chromedriver             0x00000001020f753a undetected_chromedriver + 955706
+8   undetected_chromedriver             0x00000001020f92dc undetected_chromedriver + 963292
+9   undetected_chromedriver             0x00000001020f9096 undetected_chromedriver + 962710
+10  undetected_chromedriver             0x00000001020eb0e3 undetected_chromedriver + 905443
+11  undetected_chromedriver             0x00000001020b761d undetected_chromedriver + 693789
+12  undetected_chromedriver             0x00000001020b8281 undetected_chromedriver + 696961
+13  undetected_chromedriver             0x0000000102581560 undetected_chromedriver + 5715296
+14  undetected_chromedriver             0x0000000102585425 undetected_chromedriver + 5731365
+15  undetected_chromedriver             0x000000010255beb0 undetected_chromedriver + 5562032
+16  undetected_chromedriver             0x0000000102585e5b undetected_chromedriver + 5733979
+17  undetected_chromedriver             0x000000010254adc4 undetected_chromedriver + 5492164
+18  undetected_chromedriver             0x00000001025a8a78 undetected_chromedriver + 5876344
+19  undetected_chromedriver             0x00000001025a8c40 undetected_chromedriver + 5876800
+20  undetected_chromedriver             0x00000001025ba591 undetected_chromedriver + 5948817
+21  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:38:40,351 - job_scraper - ERROR - Job scraping failed: Job scraping failed: Failed to setup Chrome driver: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+0   undetected_chromedriver             0x00000001025c3898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x00000001025ba9ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000102073600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x00000001020a057d undetected_chromedriver + 599421
+4   undetected_chromedriver             0x00000001020a1cc5 undetected_chromedriver + 605381
+5   undetected_chromedriver             0x000000010209cd31 undetected_chromedriver + 585009
+6   undetected_chromedriver             0x00000001020f7d0c undetected_chromedriver + 957708
+7   undetected_chromedriver             0x00000001020f753a undetected_chromedriver + 955706
+8   undetected_chromedriver             0x00000001020f92dc undetected_chromedriver + 963292
+9   undetected_chromedriver             0x00000001020f9096 undetected_chromedriver + 962710
+10  undetected_chromedriver             0x00000001020eb0e3 undetected_chromedriver + 905443
+11  undetected_chromedriver             0x00000001020b761d undetected_chromedriver + 693789
+12  undetected_chromedriver             0x00000001020b8281 undetected_chromedriver + 696961
+13  undetected_chromedriver             0x0000000102581560 undetected_chromedriver + 5715296
+14  undetected_chromedriver             0x0000000102585425 undetected_chromedriver + 5731365
+15  undetected_chromedriver             0x000000010255beb0 undetected_chromedriver + 5562032
+16  undetected_chromedriver             0x0000000102585e5b undetected_chromedriver + 5733979
+17  undetected_chromedriver             0x000000010254adc4 undetected_chromedriver + 5492164
+18  undetected_chromedriver             0x00000001025a8a78 undetected_chromedriver + 5876344
+19  undetected_chromedriver             0x00000001025a8c40 undetected_chromedriver + 5876800
+20  undetected_chromedriver             0x00000001025ba591 undetected_chromedriver + 5948817
+21  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:39:22,158 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:39:24,594 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:39:24,594 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:39:39,473 - job_scraper - WARNING - Timeout waiting for job cards
+2025-05-22 10:39:39,474 - job_scraper - ERROR - Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:39:39,640 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:39:39,640 - job_scraper - ERROR - Job scraping failed: Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:40:59,429 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:41:01,947 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:41:01,947 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:41:17,958 - job_scraper - WARNING - Timeout waiting for job cards
+2025-05-22 10:41:17,959 - job_scraper - ERROR - Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:41:18,121 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:41:18,121 - job_scraper - ERROR - Job scraping failed: Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:42:11,159 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:42:13,598 - job_scraper - ERROR - Failed to setup Chrome driver: Message: <unknown>: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104ec1898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000104eb89ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000104971600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x000000010497833e undetected_chromedriver + 443198
+4   undetected_chromedriver             0x000000010497b047 undetected_chromedriver + 454727
+5   undetected_chromedriver             0x0000000104a115c6 undetected_chromedriver + 1070534
+6   undetected_chromedriver             0x00000001049e9312 undetected_chromedriver + 906002
+7   undetected_chromedriver             0x0000000104a10566 undetected_chromedriver + 1066342
+8   undetected_chromedriver             0x00000001049e90e3 undetected_chromedriver + 905443
+9   undetected_chromedriver             0x00000001049b561d undetected_chromedriver + 693789
+10  undetected_chromedriver             0x00000001049b6281 undetected_chromedriver + 696961
+11  undetected_chromedriver             0x0000000104e7f560 undetected_chromedriver + 5715296
+12  undetected_chromedriver             0x0000000104e83425 undetected_chromedriver + 5731365
+13  undetected_chromedriver             0x0000000104e59eb0 undetected_chromedriver + 5562032
+14  undetected_chromedriver             0x0000000104e83e5b undetected_chromedriver + 5733979
+15  undetected_chromedriver             0x0000000104e48dc4 undetected_chromedriver + 5492164
+16  undetected_chromedriver             0x0000000104ea6a78 undetected_chromedriver + 5876344
+17  undetected_chromedriver             0x0000000104ea6c40 undetected_chromedriver + 5876800
+18  undetected_chromedriver             0x0000000104eb8591 undetected_chromedriver + 5948817
+19  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:42:13,599 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: <unknown>: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104ec1898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000104eb89ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000104971600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x000000010497833e undetected_chromedriver + 443198
+4   undetected_chromedriver             0x000000010497b047 undetected_chromedriver + 454727
+5   undetected_chromedriver             0x0000000104a115c6 undetected_chromedriver + 1070534
+6   undetected_chromedriver             0x00000001049e9312 undetected_chromedriver + 906002
+7   undetected_chromedriver             0x0000000104a10566 undetected_chromedriver + 1066342
+8   undetected_chromedriver             0x00000001049e90e3 undetected_chromedriver + 905443
+9   undetected_chromedriver             0x00000001049b561d undetected_chromedriver + 693789
+10  undetected_chromedriver             0x00000001049b6281 undetected_chromedriver + 696961
+11  undetected_chromedriver             0x0000000104e7f560 undetected_chromedriver + 5715296
+12  undetected_chromedriver             0x0000000104e83425 undetected_chromedriver + 5731365
+13  undetected_chromedriver             0x0000000104e59eb0 undetected_chromedriver + 5562032
+14  undetected_chromedriver             0x0000000104e83e5b undetected_chromedriver + 5733979
+15  undetected_chromedriver             0x0000000104e48dc4 undetected_chromedriver + 5492164
+16  undetected_chromedriver             0x0000000104ea6a78 undetected_chromedriver + 5876344
+17  undetected_chromedriver             0x0000000104ea6c40 undetected_chromedriver + 5876800
+18  undetected_chromedriver             0x0000000104eb8591 undetected_chromedriver + 5948817
+19  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:42:13,731 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:42:13,731 - job_scraper - ERROR - Job scraping failed: Job scraping failed: Failed to setup Chrome driver: Message: <unknown>: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104ec1898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000104eb89ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x0000000104971600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x000000010497833e undetected_chromedriver + 443198
+4   undetected_chromedriver             0x000000010497b047 undetected_chromedriver + 454727
+5   undetected_chromedriver             0x0000000104a115c6 undetected_chromedriver + 1070534
+6   undetected_chromedriver             0x00000001049e9312 undetected_chromedriver + 906002
+7   undetected_chromedriver             0x0000000104a10566 undetected_chromedriver + 1066342
+8   undetected_chromedriver             0x00000001049e90e3 undetected_chromedriver + 905443
+9   undetected_chromedriver             0x00000001049b561d undetected_chromedriver + 693789
+10  undetected_chromedriver             0x00000001049b6281 undetected_chromedriver + 696961
+11  undetected_chromedriver             0x0000000104e7f560 undetected_chromedriver + 5715296
+12  undetected_chromedriver             0x0000000104e83425 undetected_chromedriver + 5731365
+13  undetected_chromedriver             0x0000000104e59eb0 undetected_chromedriver + 5562032
+14  undetected_chromedriver             0x0000000104e83e5b undetected_chromedriver + 5733979
+15  undetected_chromedriver             0x0000000104e48dc4 undetected_chromedriver + 5492164
+16  undetected_chromedriver             0x0000000104ea6a78 undetected_chromedriver + 5876344
+17  undetected_chromedriver             0x0000000104ea6c40 undetected_chromedriver + 5876800
+18  undetected_chromedriver             0x0000000104eb8591 undetected_chromedriver + 5948817
+19  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:43:05,433 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:43:07,918 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:43:07,918 - job_scraper - INFO - Visiting Indeed homepage first...
+2025-05-22 10:43:17,970 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:43:44,058 - job_scraper - WARNING - Timeout waiting for job cards
+2025-05-22 10:43:44,059 - job_scraper - ERROR - Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:43:44,280 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:43:44,281 - job_scraper - ERROR - Job scraping failed: Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:44:33,257 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:44:35,800 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:44:35,801 - job_scraper - INFO - Visiting Indeed homepage first...
+2025-05-22 10:44:44,964 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:45:14,736 - job_scraper - WARNING - Timeout waiting for job results container
+2025-05-22 10:45:14,737 - job_scraper - INFO - Refreshing page and trying again...
+2025-05-22 10:45:37,246 - job_scraper - WARNING - Timeout waiting for job results container
+2025-05-22 10:45:37,247 - job_scraper - ERROR - Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:45:37,424 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:45:37,424 - job_scraper - ERROR - Job scraping failed: Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:46:11,707 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:46:14,276 - job_scraper - ERROR - Failed to setup Chrome driver: Message: invalid cookie domain
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102dbd898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000102db49ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x000000010286d443 undetected_chromedriver + 414787
+3   undetected_chromedriver             0x000000010291e704 undetected_chromedriver + 1140484
+4   undetected_chromedriver             0x00000001028e5312 undetected_chromedriver + 906002
+5   undetected_chromedriver             0x000000010290c566 undetected_chromedriver + 1066342
+6   undetected_chromedriver             0x00000001028e50e3 undetected_chromedriver + 905443
+7   undetected_chromedriver             0x00000001028b161d undetected_chromedriver + 693789
+8   undetected_chromedriver             0x00000001028b2281 undetected_chromedriver + 696961
+9   undetected_chromedriver             0x0000000102d7b560 undetected_chromedriver + 5715296
+10  undetected_chromedriver             0x0000000102d7f425 undetected_chromedriver + 5731365
+11  undetected_chromedriver             0x0000000102d55eb0 undetected_chromedriver + 5562032
+12  undetected_chromedriver             0x0000000102d7fe5b undetected_chromedriver + 5733979
+13  undetected_chromedriver             0x0000000102d44dc4 undetected_chromedriver + 5492164
+14  undetected_chromedriver             0x0000000102da2a78 undetected_chromedriver + 5876344
+15  undetected_chromedriver             0x0000000102da2c40 undetected_chromedriver + 5876800
+16  undetected_chromedriver             0x0000000102db4591 undetected_chromedriver + 5948817
+17  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+18  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:46:14,277 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: invalid cookie domain
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102dbd898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000102db49ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x000000010286d443 undetected_chromedriver + 414787
+3   undetected_chromedriver             0x000000010291e704 undetected_chromedriver + 1140484
+4   undetected_chromedriver             0x00000001028e5312 undetected_chromedriver + 906002
+5   undetected_chromedriver             0x000000010290c566 undetected_chromedriver + 1066342
+6   undetected_chromedriver             0x00000001028e50e3 undetected_chromedriver + 905443
+7   undetected_chromedriver             0x00000001028b161d undetected_chromedriver + 693789
+8   undetected_chromedriver             0x00000001028b2281 undetected_chromedriver + 696961
+9   undetected_chromedriver             0x0000000102d7b560 undetected_chromedriver + 5715296
+10  undetected_chromedriver             0x0000000102d7f425 undetected_chromedriver + 5731365
+11  undetected_chromedriver             0x0000000102d55eb0 undetected_chromedriver + 5562032
+12  undetected_chromedriver             0x0000000102d7fe5b undetected_chromedriver + 5733979
+13  undetected_chromedriver             0x0000000102d44dc4 undetected_chromedriver + 5492164
+14  undetected_chromedriver             0x0000000102da2a78 undetected_chromedriver + 5876344
+15  undetected_chromedriver             0x0000000102da2c40 undetected_chromedriver + 5876800
+16  undetected_chromedriver             0x0000000102db4591 undetected_chromedriver + 5948817
+17  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+18  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:46:14,410 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:46:14,410 - job_scraper - ERROR - Job scraping failed: Job scraping failed: Failed to setup Chrome driver: Message: invalid cookie domain
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102dbd898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000102db49ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x000000010286d443 undetected_chromedriver + 414787
+3   undetected_chromedriver             0x000000010291e704 undetected_chromedriver + 1140484
+4   undetected_chromedriver             0x00000001028e5312 undetected_chromedriver + 906002
+5   undetected_chromedriver             0x000000010290c566 undetected_chromedriver + 1066342
+6   undetected_chromedriver             0x00000001028e50e3 undetected_chromedriver + 905443
+7   undetected_chromedriver             0x00000001028b161d undetected_chromedriver + 693789
+8   undetected_chromedriver             0x00000001028b2281 undetected_chromedriver + 696961
+9   undetected_chromedriver             0x0000000102d7b560 undetected_chromedriver + 5715296
+10  undetected_chromedriver             0x0000000102d7f425 undetected_chromedriver + 5731365
+11  undetected_chromedriver             0x0000000102d55eb0 undetected_chromedriver + 5562032
+12  undetected_chromedriver             0x0000000102d7fe5b undetected_chromedriver + 5733979
+13  undetected_chromedriver             0x0000000102d44dc4 undetected_chromedriver + 5492164
+14  undetected_chromedriver             0x0000000102da2a78 undetected_chromedriver + 5876344
+15  undetected_chromedriver             0x0000000102da2c40 undetected_chromedriver + 5876800
+16  undetected_chromedriver             0x0000000102db4591 undetected_chromedriver + 5948817
+17  libsystem_pthread.dylib             0x00007ff80f952df1 _pthread_start + 99
+18  libsystem_pthread.dylib             0x00007ff80f94e857 thread_start + 15
+
+2025-05-22 10:48:14,826 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:48:20,991 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:48:20,992 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:48:49,688 - job_scraper - WARNING - Timeout waiting for job results container
+2025-05-22 10:48:49,689 - job_scraper - INFO - Refreshing page and trying again...
+2025-05-22 10:49:07,046 - job_scraper - WARNING - Error waiting for job cards: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=136.0.7103.114)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104b3e898 undetected_chromedriver + 5986456
+1   undetected_chromedriver             0x0000000104b359ca undetected_chromedriver + 5949898
+2   undetected_chromedriver             0x00000001045ee600 undetected_chromedriver + 415232
+3   undetected_chromedriver             0x00000001045c3580 undetected_chromedriver + 238976
+4   undetected_chromedriver             0x000000010466e898 undetected_chromedriver + 940184
+5   undetected_chromedriver             0x000000010468cf2c undetected_chromedriver + 1064748
+6   undetected_chromedriver             0x00000001046660e3 undetected_chromedriver + 905443
+7   undetected_chromedriver             0x000000010463261d undetected_chromedriver + 693789
+8   undetected_chromedriver             0x0000000104633281 undetected_chromedriver + 696961
+9   undetected_chromedriver             0x0000000104afc560 undetected_chromedriver + 5715296
+10  undetected_chromedriver             0x0000000104b00425 undetected_chromedriver + 5731365
+11  undetected_chromedriver             0x0000000104ad6eb0 undetected_chromedriver + 5562032
+12  undetected_chromedriver             0x0000000104b00e5b undetected_chromedriver + 5733979
+13  undetected_chromedriver             0x0000000104ac5dc4 undetected_chromedriver + 5492164
+14  undetected_chromedriver             0x0000000104b23a78 undetected_chromedriver + 5876344
+15  undetected_chromedriver             0x0000000104b23c40 undetected_chromedriver + 5876800
+16  undetected_chromedriver             0x0000000104b35591 undetected_chromedriver + 5948817
+17  libsystem_pthread.dylib             0x00007ff812db2df1 _pthread_start + 99
+18  libsystem_pthread.dylib             0x00007ff812dae857 thread_start + 15
+
+2025-05-22 10:49:07,047 - job_scraper - ERROR - Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:49:07,224 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:49:07,224 - job_scraper - ERROR - Job scraping failed: Job scraping failed: No job results found or page failed to load properly
+2025-05-22 10:50:37,954 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:50:40,411 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:50:40,412 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:51:08,534 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:51:08,535 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 10:54:45,326 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 10:54:47,757 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 10:54:47,757 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 10:55:14,940 - job_scraper - INFO - Chrome driver closed
+2025-05-22 10:55:14,941 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 11:39:49,143 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 11:39:51,642 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 11:39:51,642 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 11:40:20,904 - job_scraper - INFO - Chrome driver closed
+2025-05-22 11:40:20,905 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 11:44:44,458 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 11:44:46,869 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 11:44:46,870 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 11:46:20,744 - job_scraper - INFO - Chrome driver closed
+2025-05-22 11:46:20,746 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json
+2025-05-22 15:04:07,440 - job_scraper - INFO - Setting up Chrome driver
+2025-05-22 15:04:09,838 - job_scraper - INFO - Chrome driver setup successful
+2025-05-22 15:04:09,838 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-22 15:05:41,382 - job_scraper - INFO - Chrome driver closed
+2025-05-22 15:05:41,384 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json

@@ -1,0 +1,54 @@
+{
+    "PRAJWAL KUSHA": "LinkedIn-Prajwal Kusha | Portfolio-Website | p.kusha@gwu.edu | (703) 928-7389 | Washington, DC 20052",
+    "EDUCATION": [
+        {
+            "school": "THE GEORGE WASHINGTON UNIVERSITY, School of Business Washington, DC",
+            "location": "",
+            "degree": "Master of Science, Business Analytics",
+            "date": "December 2025",
+            "bullets": [
+                "Relevant Courses: Data Management for Analytics | Machine Learning | Big Data & Supply Chain Analytics | Statistics for Analytics | Programming for Analytics (R & Python)",
+                "Awards: GW School of Business Merit-Based Fellowship PRESIDENCY UNIVERSITY, School of Engineering Bangalore, India Bachelor of Technology, Mechanical Engineering March 2021",
+                "Relevant Courses: Computer Programming | Design Thinking and Team Building | Statistics and Probability",
+                "Leadership: Student Representative and Lead Coordinator, Department of Student Affairs"
+            ]
+        }
+    ],
+    "TECHNICAL SKILLS": [
+        "Languages: Python, R, SQL, HTML, CSS",
+        "Tools: Docker, Git, Vercel, AWS, Jupyter, PostgreSQL, MySQL",
+        "ML/Analytics: scikit-learn, TensorFlow, PySpark, Gurobi, Power BI, Tableau",
+        "GenAI \u2013 ChatGPT, Perplexity, Grok AI, Copilot, Cursor"
+    ],
+    "EXPERIENCE": [
+        {
+            "company": "LEVERAGE ED-TECH PRIVATE LIMITED (Vasudhaiva Kutumbakam Group Private Limited) New Delhi, India",
+            "location": "",
+            "role": "Senior Consultant \u2013 Operations",
+            "dates": "March 2021 - May 2024",
+            "bullets": [
+                "Collaborated with cross-functional teams (sales, marketing, product) to implement targeted outreach and data-driven sales strategies, increasing client acquisition by 30% and contributing to 15% of the team's annual revenue.",
+                "Automated reporting workflows and optimized data operations using Excel, SQL, and CRM tools, improving accuracy and operational efficiency across client management.",
+                "Developed actionable insights and strategic recommendations, enabling sales teams to optimize engagement strategies and improve client retention by 35%, supporting marketing efforts through data-driven collateral."
+            ]
+        }
+    ],
+    "TECHNICAL PROJECTS": [
+        {
+            "name": "Portfolio Website",
+            "tech_stack": "Next.js, Tailwind CSS, TypeScript, Vercel",
+            "link": "Website",
+            "bullets": [
+                "Designed and developed a fully responsive portfolio using Next.js, Tailwind CSS, and TypeScript, showcasing personal projects, technical skills, and interactive UI components with light/dark theming and animated transitions.",
+                "Deployed on Vercel with performance optimizations, custom routing, and seamless scalability; includes dynamic resume downloads, project highlights, and a clean, modular codebase reflecting modern frontend best practices. Capital Bikeshare Summer Analysis | Tech Stack: AWS, Linux, SSH, JupyterLab GitHub",
+                "Utilized AWS EC2 to process large datasets, creating visualizations and actionable business insights, which were presented to stakeholders to inform strategic decisions.",
+                "Identified high-demand stations and frequently used bikes (Lincoln Memorial, Union Station), providing recommendations to optimize bike availability and maintenance schedules, improving system efficiency FEC Political Contributions Data Analysis | Tech Stack: AWS, SQL, Bash, PostgreSQL, Apache Spark GitHub",
+                "Conducted market research on political contributions, identifying key trends in customer behavior and high-value donors across states (California, Texas, Florida), providing insights for GTM strategies in campaign finance.",
+                "Evaluated the impact of PACs like One Nation and high-value donors such as Timothy Mellon on political campaigns, highlighting the need for greater transparency and regulation in campaign finance. House Prices Prediction | Tech Stack: Kaggle, Python, Scikit-Learn, matplotlib, Gradient Boosting GitHub",
+                "Built a House Price Prediction Model: Developed a machine learning pipeline using Python and scikit-learn, achieving a validation RMSE of 27,897.11 through data preprocessing, feature engineering, and Gradient Boosting.",
+                "Optimized Model Performance: Performed hyperparameter tuning with GridSearchCV and evaluated model performance using feature importance plots and correlation heatmaps, ensuring accurate predictions for real estate analysis."
+            ]
+        }
+    ],
+    "ADDITIONAL INFORMATION": "Certifications: Career Essentials in Data Analysis, Microsoft and LinkedIn | Foundations of Business Strategy, University of\nVirginia, Coursera\nInvolvement: VP of Alumni Relations \u2013 GW Business Analytics Club | Volunteer - Swachh Bharat Abhiyan - Clean India"
+}

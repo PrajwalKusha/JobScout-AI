@@ -1,0 +1,35 @@
+2025-05-21 23:21:40,024 - job_scraper - INFO - Setting up Chrome driver
+2025-05-21 23:21:43,402 - job_scraper - INFO - Chrome driver setup successful
+2025-05-21 23:21:43,402 - job_scraper - INFO - Starting job search for: data analyst in Washington, DC
+2025-05-21 23:21:48,989 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bo31RVmdkw5vQjGIRdvR91C8LyiQ62zsY7_1VlbtgjgCScDfWPN6jcvxmVQNl1JRGNx4K294xaySYk6Z9LK6wkIN9qGUHe77liRpj0kI-NNuVdc2sBhJ9f_ENvVlAscQdVgCOuuXAczJHsw1i69NezAQQN1AhidaGOspbtTjah7NHTSYJj8igB02hTQR3paJFHr8PC3kQ0eJFcNJZJr_plQvjPBFSd_BOyqkn_lSAkvaesLCoSu1Tmi3ECrJSkEIN_T7KPt_vVN1BVefWBwNjqDmZJJ4OL9frNYQueBzQMUZjx7l0NeAl5Ei-T7HvAslmkLU55UnF9hCS5gpyMJDHUdNo6zbGhfryzCBt2mDjqTGXQi2YSn6koEomRq1y7ZSQu9v2-GML1e1mn9NbLLrQrc8FZvQc0AOWIk7HiElZGiEJaadicAY0w8ZmJR5Sb2aUDoD5jdQu_6CLC6s_fxkGUtTfyj6KT-TxXz0FiqFnO2fvUdBue8t6qGinsajTusFRCxcGlq-66H--9LJPyntLFkESSxE1kMIzgfyneoXfy9Si7xaBkiWiBRnhD37o8RYfewP9O7iuI5-cNfC1UKMYQdgMBAwZdxa9p2LKvGxGpygod_Ep_nYHI&xkcb=SoBj6_M3y7IZNQwEAJ0LbzkdCdPP&camk=4HOcmqOLYrA_GNp6SM59Tw==&p=0&fvj=0&vjs=3
+2025-05-21 23:21:55,035 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:21:55,035 - job_scraper - INFO - Successfully scraped job: Financial Analyst
+2025-05-21 23:21:55,035 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ADQ6GdWvkt8ZgTH_-FXwKY0lTyiTNy2VEya7tXxeKwzj-OqYxe2oijGponoqrYterqBsDwhM-VOclLX5Lq3N2vJEF8GQtgC6Os7bhOd4_imrm6ePXV7HcOSG_Yuve7jcpSrIh-idaaPC3HB_KJYgZubymYm5v4hhd6lTDAkjRfthaJSQWg_zHEaf3dCMwJc3EUQl3v7YoVTXP7jx6mWl_J9d9z6jsmFKVNpwfHS3Idl1b7Zwb-FEy7wU5udRwmyEHjEcdMSr3nkSVKEPwoP6ZcQMOp3TahiWwOzq5iX-Y2d2rWYG40AQBfviZOOkWc2pVtV4uaRL4-7vnbNqQaYFCwaiMEdRzavR-dS_P-2ghybP17vlJKekHYRE3_8w8y4b3wVezrFJdg18YpA8REz8pKzG8OG76hqaMYaTwtIQXoOmocyw4c2KpezchRiUUQS0eGfM9J_cJKhrCHY7euaBrD4ke1ZEpP_uO2QRPOHiyaNwpLUm_0qHPZd3kJTaetq3YEfCMZi35P7AdaE-wOcGjy5Lj_CzKaL3bKIcqokPvZPe9ir9rTigVJdUG5e4NgAmvgZwSGI4DDQrzN5dkomnmdk37ZpoR6lI8e7SD0ADA_9p4Y_V_P9cTPBbr62vfOv4v3aUXKMYCFItOFGCoQLGTKpdPtn59dq74-IDMJoPPgqZc3lYa6ghpU4ZNEOJ0jznxk6Hi_K2ulXu1xtw0l2ObiV3tfOvVVbxPcJoBTtllbWS13a1mFN0rAR_bgAt4qRR91LRU0XWJzQODH56l0pt_5Z-Mg_Hg8ZuB8tHeniWopW2wJ_d7EEh7bfz-Pce2GkI3nux5XiLasdEh0eS-K547T1v46_w_wIu4YzZnerB4LtYp8Dbcvvu2fIBfjp6QmdziWWUP7deoHU54oDzm_Uy50uESbT-GYruk=&xkcb=SoDX6_M3y7IZNQwEAJ0KbzkdCdPP&camk=xqnMBGaf-K8vFZXEDPPQNg==&p=1&fvj=0&vjs=3
+2025-05-21 23:21:59,145 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:21:59,145 - job_scraper - INFO - Successfully scraped job: Senior Supply Chain Analytics Analyst
+2025-05-21 23:21:59,145 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=e9f1aff8cd42bad8&bb=y_Xmkf-kratGnkWAZyPlmRfjTzyo76oP09EytpeWyAorigBTFYTTQg5wmg40YtUuoiGltupyLJ2Bk13TCDHY08i7ReYk9euimvpxliOEuuBCuCJP7q84-eaOkFlb4CM5HsYRmiixjQGrWbbO47k81g%3D%3D&xkcb=SoC-67M3y7IZNQwEAJ0JbzkdCdPP&fccid=27ac7273a8266cff&vjs=3
+2025-05-21 23:22:05,097 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:05,097 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-21 23:22:05,098 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=94eaf09845588ad9&bb=y_Xmkf-kratGnkWAZyPlmbA3BrzWpfa2JR3GyDCqPgMSLJWy4HMSQmIj-fJXBJrjE8w8M2mwS_zDpDS7fVaGiov4_63mzK-HYpRHLONg7q7EYHJs1HTPzpvAQMAEkmKN7uMI-Y8EuylRsLZS_yu8DQ%3D%3D&xkcb=SoAK67M3y7IZNQwEAJ0IbzkdCdPP&fccid=0cdf6f2fcdb7fa0c&vjs=3
+2025-05-21 23:22:10,855 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:10,856 - job_scraper - INFO - Successfully scraped job: Data Reconcilliation Analyst - Excel, SalesForce, SCSEP experience a plus
+2025-05-21 23:22:10,856 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=0b70bd11f6c33979&bb=y_Xmkf-kratGnkWAZyPlmaG-85-YfBwtGDXECaz_XaBQgIOQ96iy0MCcTqtz0LybM4WltDMHFWnZj7RtWrrVitOjfMgBfDY4GWhZYGZ22LHfvAlIY-nF29fHmLicdKmj8P6IaLxtti716HT0TCYs3A%3D%3D&xkcb=SoCE67M3y7IZNQwEAJ0PbzkdCdPP&fccid=ed6233c252f25b6e&vjs=3
+2025-05-21 23:22:17,149 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:17,149 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-21 23:22:17,149 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=794c42f80d70db38&bb=y_Xmkf-kratGnkWAZyPlmVa9eyWFSuc_X7jwfuvMqD7d0cRyV2ejQgJiKu8y6TttuxokGF-fsHF-QafzXvr44Nqx4Tsg-rc6F5IFZuiTje4WzFv9Z0TB7Y2oRPCJKskWnzj6fvj92hA%3D&xkcb=SoAw67M3y7IZNQwEAJ0ObzkdCdPP&fccid=fdcf980c211a3f6d&vjs=3
+2025-05-21 23:22:22,472 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:22,472 - job_scraper - INFO - Successfully scraped job: Performance Management and Data Analyst I, Grade 21
+2025-05-21 23:22:22,472 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=9fb9f5ce80dfabc0&bb=y_Xmkf-kratGnkWAZyPlmdB1LyvrJAYakHvy3lGJKsxVTt8a3XzacK1bLuo0Y9jePrkxnqXsIPNyA2LGhU6kRbYfs1RXBOfL6BzGN1U8d_uT0TkUKu_VnBPbIuaS-FEBYu_7f9Wxb6pkvuPIbOpP_Q%3D%3D&xkcb=SoCt67M3y7IZNQwEAJ0NbzkdCdPP&fccid=5b1f700c72af0817&vjs=3
+2025-05-21 23:22:27,109 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:27,110 - job_scraper - INFO - Successfully scraped job: Data Analyst
+2025-05-21 23:22:27,110 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=71b633f8f2d80d15&bb=y_Xmkf-kratGnkWAZyPlmaG-85-YfBwtZgQNiYQpfUr0JeNPrmIE-voTGlCcTAsRP0AsEmkiNAdp9dxu8uyuyPi5aeu_4BiJn-OFv4CoK4FjPh3Mk2Co4E7rF1THkZwSTYRkU2TyV9lOX-_z2tcCcg%3D%3D&xkcb=SoAZ67M3y7IZNQwEAJ0MbzkdCdPP&fccid=ec2f5e47ad7a69a2&cmp=Gridiron-IT&ti=Business+Analyst&vjs=3
+2025-05-21 23:22:31,806 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:31,806 - job_scraper - INFO - Successfully scraped job: Business Analyst
+2025-05-21 23:22:31,807 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=d907c4d62cf507e1&bb=y_Xmkf-kratGnkWAZyPlmVcBUeM7mcVVH-g_yFJHVs19QAMc6Jp8l2oIrKurvN_CgP7qvebNhe5bXdbu0qxKDJrWHLH2UOJn5f_UggVMvVfwng37YL494AOr_gw9pZA5j_iGTxfBlE090MVx11TRdg%3D%3D&xkcb=SoDw67M3y7IZNQwEAJ0DbzkdCdPP&fccid=caed318a9335aac0&vjs=3
+2025-05-21 23:22:38,120 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:38,120 - job_scraper - INFO - Successfully scraped job: Criminal Intelligence & Data Analyst - USDS
+2025-05-21 23:22:38,120 - job_scraper - INFO - Fetching job details from: https://www.indeed.com/rc/clk?jk=62b2ffc809255dc4&bb=y_Xmkf-kratGnkWAZyPlmYSD5Cvak0ta8cC9jEF0unx2C1EyDlgp1Kad31_lu1kT_0-sWugBrdqw0J6HODiRYqcoy5WEyT_M78kxeErW2BNO0CTqPYWxL-jwpMUMbOADaET-VtV2VWvXfsGTnBVMDA%3D%3D&xkcb=SoBE67M3y7IZNQwEAJ0CbzkdCdPP&fccid=140819ee3bb5b4c9&cmp=Lethyagroupinc&ti=Data+Analyst&vjs=3
+2025-05-21 23:22:44,205 - job_scraper - INFO - Successfully fetched job details
+2025-05-21 23:22:44,205 - job_scraper - INFO - Successfully scraped job: 11+ Yrs Data Analyst- Washington, DC (Hybrid)
+2025-05-21 23:22:44,410 - job_scraper - INFO - Chrome driver closed
+2025-05-21 23:22:44,411 - job_scraper - INFO - Successfully saved 10 job listings to jobs.json

@@ -1,0 +1,44 @@
+2025-05-22 12:03:29,657 - resume_parser - ERROR - Resume parsing failed: API key not found in environment. Please set it in .env file.
+2025-05-22 12:05:35,613 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:05:35,613 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:05:35,628 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:05:35,628 - resume_parser - INFO - Sending request to OpenRouter API
+2025-05-22 12:05:41,844 - resume_parser - INFO - Successfully received response from OpenRouter API
+2025-05-22 12:05:41,844 - resume_parser - INFO - Successfully parsed JSON response
+2025-05-22 12:05:41,847 - resume_parser - INFO - Resume data successfully saved to parsed_resume.json
+2025-05-22 12:06:51,879 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:06:51,879 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:06:51,894 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:06:51,894 - resume_parser - INFO - Sending request to OpenRouter API
+2025-05-22 12:06:57,184 - resume_parser - INFO - Successfully received response from OpenRouter API
+2025-05-22 12:06:57,185 - resume_parser - INFO - Successfully parsed JSON response
+2025-05-22 12:06:57,187 - resume_parser - INFO - Resume data successfully saved to parsed_resume.json
+2025-05-22 12:09:43,827 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:09:43,827 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:09:43,845 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:09:43,845 - resume_parser - INFO - Sending request to OpenRouter API
+2025-05-22 12:09:50,577 - resume_parser - INFO - Successfully received response from OpenRouter API
+2025-05-22 12:09:50,577 - resume_parser - INFO - Successfully parsed JSON response
+2025-05-22 12:09:50,581 - resume_parser - INFO - Resume data successfully saved to parsed_resume.json
+2025-05-22 12:18:06,451 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:18:06,451 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:18:06,547 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:20:58,352 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:20:58,352 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:20:58,432 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:20:58,433 - resume_parser - ERROR - Unexpected error: unknown extension ?\\ at position 4
+2025-05-22 12:21:19,371 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:21:19,371 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:21:19,451 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:21:19,451 - resume_parser - ERROR - Unexpected error: unknown extension ?\\ at position 4
+2025-05-22 12:21:59,047 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:21:59,047 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:21:59,129 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:26:08,056 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:26:08,056 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:26:08,139 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:28:01,518 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:28:01,518 - resume_parser - INFO - Attempting to extract text from PDF: P1.pdf
+2025-05-22 12:28:01,599 - resume_parser - INFO - Successfully extracted text from PDF
+2025-05-22 12:30:30,025 - resume_parser - INFO - Starting resume parsing process
+2025-05-22 12:35:46,203 - resume_parser - INFO - Starting resume parsing process

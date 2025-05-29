@@ -1,0 +1,224 @@
+2025-05-28 21:40:51,617 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:40:54,085 - job_scraper - ERROR - Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51053
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x0000000100ea70c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x0000000100e9e82a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001009323b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x0000000100973196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x0000000100972104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001009677de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x00000001009b8bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x00000001009b8246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x00000001009aa043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x0000000100976287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x0000000100976ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000100e64c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000100e68baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x0000000100e3fee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x0000000100e6950f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000100e2e794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x0000000100e8c1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x0000000100e8c390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x0000000100e9e3f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:40:54,085 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51053
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x0000000100ea70c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x0000000100e9e82a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001009323b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x0000000100973196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x0000000100972104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001009677de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x00000001009b8bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x00000001009b8246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x00000001009aa043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x0000000100976287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x0000000100976ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000100e64c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000100e68baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x0000000100e3fee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x0000000100e6950f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000100e2e794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x0000000100e8c1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x0000000100e8c390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x0000000100e9e3f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:41:59,073 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:42:01,663 - job_scraper - ERROR - Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51118
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x00000001047090c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x000000010470082a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001041943b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x00000001041d5196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x00000001041d4104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001041c97de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x000000010421abb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x000000010421a246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x000000010420c043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x00000001041d8287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x00000001041d8ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x00000001046c6c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x00000001046cabaf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x00000001046a1ee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x00000001046cb50f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000104690794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x00000001046ee1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x00000001046ee390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x00000001047003f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:42:01,663 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51118
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x00000001047090c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x000000010470082a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001041943b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x00000001041d5196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x00000001041d4104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001041c97de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x000000010421abb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x000000010421a246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x000000010420c043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x00000001041d8287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x00000001041d8ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x00000001046c6c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x00000001046cabaf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x00000001046a1ee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x00000001046cb50f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000104690794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x00000001046ee1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x00000001046ee390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x00000001047003f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:43:04,000 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:43:07,548 - job_scraper - ERROR - Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51185
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x00000001026670c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x000000010265e82a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001020f23b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x0000000102133196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x0000000102132104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001021277de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x0000000102178bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x0000000102178246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x000000010216a043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x0000000102136287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x0000000102136ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000102624c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000102628baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x00000001025ffee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x000000010262950f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x00000001025ee794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x000000010264c1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x000000010264c390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x000000010265e3f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:43:07,548 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51185
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x00000001026670c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x000000010265e82a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x00000001020f23b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x0000000102133196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x0000000102132104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001021277de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x0000000102178bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x0000000102178246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x000000010216a043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x0000000102136287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x0000000102136ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000102624c30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000102628baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x00000001025ffee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x000000010262950f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x00000001025ee794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x000000010264c1c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x000000010264c390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x000000010265e3f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:44:49,979 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:44:52,439 - job_scraper - ERROR - Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51263
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x0000000100c020c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x0000000100bf982a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x000000010068d3b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x00000001006ce196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x00000001006cd104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001006c27de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x0000000100713bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x0000000100713246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x0000000100705043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x00000001006d1287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x00000001006d1ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000100bbfc30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000100bc3baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x0000000100b9aee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x0000000100bc450f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000100b89794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x0000000100be71c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x0000000100be7390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x0000000100bf93f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:44:52,440 - job_scraper - ERROR - Job scraping failed: Failed to setup Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51263
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 136.0.7103.114
+Stacktrace:
+0   undetected_chromedriver             0x0000000100c020c8 undetected_chromedriver + 6140104
+1   undetected_chromedriver             0x0000000100bf982a undetected_chromedriver + 6105130
+2   undetected_chromedriver             0x000000010068d3b0 undetected_chromedriver + 418736
+3   undetected_chromedriver             0x00000001006ce196 undetected_chromedriver + 684438
+4   undetected_chromedriver             0x00000001006cd104 undetected_chromedriver + 680196
+5   undetected_chromedriver             0x00000001006c27de undetected_chromedriver + 636894
+6   undetected_chromedriver             0x0000000100713bb7 undetected_chromedriver + 969655
+7   undetected_chromedriver             0x0000000100713246 undetected_chromedriver + 967238
+8   undetected_chromedriver             0x0000000100705043 undetected_chromedriver + 909379
+9   undetected_chromedriver             0x00000001006d1287 undetected_chromedriver + 696967
+10  undetected_chromedriver             0x00000001006d1ef1 undetected_chromedriver + 700145
+11  undetected_chromedriver             0x0000000100bbfc30 undetected_chromedriver + 5868592
+12  undetected_chromedriver             0x0000000100bc3baf undetected_chromedriver + 5884847
+13  undetected_chromedriver             0x0000000100b9aee6 undetected_chromedriver + 5717734
+14  undetected_chromedriver             0x0000000100bc450f undetected_chromedriver + 5887247
+15  undetected_chromedriver             0x0000000100b89794 undetected_chromedriver + 5646228
+16  undetected_chromedriver             0x0000000100be71c8 undetected_chromedriver + 6029768
+17  undetected_chromedriver             0x0000000100be7390 undetected_chromedriver + 6030224
+18  undetected_chromedriver             0x0000000100bf93f1 undetected_chromedriver + 6104049
+19  libsystem_pthread.dylib             0x00007ff80294edf1 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80294a857 thread_start + 15
+
+2025-05-28 21:50:00,757 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:50:03,134 - job_scraper - INFO - Chrome driver setup successful
+2025-05-28 21:50:03,134 - job_scraper - INFO - Starting job search for: Solutions Architect in Washington, DC
+2025-05-28 21:50:26,537 - job_scraper - INFO - Chrome driver closed
+2025-05-28 21:57:47,874 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:57:50,289 - job_scraper - INFO - Chrome driver setup successful
+2025-05-28 21:57:50,290 - job_scraper - INFO - Starting job search for: Data Analyst in Washington, DC
+2025-05-28 21:58:03,962 - job_scraper - INFO - Chrome driver closed
+2025-05-28 21:59:11,664 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 21:59:14,014 - job_scraper - INFO - Chrome driver setup successful
+2025-05-28 21:59:14,015 - job_scraper - INFO - Starting job search for: Business Analyst in New York
+2025-05-28 21:59:27,164 - job_scraper - INFO - Chrome driver closed
