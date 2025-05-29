@@ -13,4 +13,4 @@ selenium
 aiohttp
 sendgrid
 python-multipart
-
+chromedriver-autoinstaller
