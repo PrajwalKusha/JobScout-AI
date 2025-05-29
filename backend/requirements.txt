@@ -5,6 +5,7 @@ requests
 PyMuPDF
 pdfplumber
 undetected-chromedriver
+chromedriver-autoinstaller
 email-validator
 pydantic
 setuptools
