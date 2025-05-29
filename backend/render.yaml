@@ -4,13 +4,17 @@ services:
     env: python
     buildCommand: |
     apt-get update
-    apt-get install -y chromium wget unzip
-    chromium --version
-    wget -O /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+    apt-get install -y wget unzip
+    # Download and install Chromium 137
+    wget -O /tmp/chrome-linux.zip https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/137.0.7151.55/linux64/chrome-linux64.zip
+    unzip /tmp/chrome-linux.zip -d /tmp/
+    mv /tmp/chrome-linux64 /opt/chrome
+    ln -s /opt/chrome/chrome /usr/bin/chromium
+    # Download and install Chromedriver 137
+    wget -O /tmp/chromedriver.zip https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/137.0.7151.55/linux64/chromedriver-linux64.zip
     unzip /tmp/chromedriver.zip -d /tmp/
-    mv /tmp/chromedriver /usr/bin/chromedriver
+    mv /tmp/chromedriver-linux64/chromedriver /usr/bin/chromedriver
     chmod +x /usr/bin/chromedriver
-    ls -l /usr/bin/chromedriver
     pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
