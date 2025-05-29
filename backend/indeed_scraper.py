@@ -13,7 +13,7 @@ from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional
 from utils.logger import job_scraper_logger
 from utils.exceptions import ScrapingError, BrowserError, RateLimitError, JobScraperError
-import chromedriver_autoinstaller
+# import chromedriver_autoinstaller
 import os 
 
 class IndeedScraper:
