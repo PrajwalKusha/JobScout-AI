@@ -15,10 +15,10 @@
         }
     ],
     "TECHNICAL SKILLS": [
-        "Languages: TypeScript, JavaScript, Python, R, SQL, HTML, CSS",
-        "Frameworks & Libraries: React, Next.js, Tailwind CSS, Framer Motion, TypewriterJS",
+        "Languages: Python, R, SQL, HTML, CSS",
         "Tools: Docker, Git, Vercel, AWS, Jupyter, PostgreSQL, MySQL",
-        "ML/Analytics: scikit-learn, TensorFlow, PySpark, Gurobi, Power BI, Tableau"
+        "ML/Analytics: scikit-learn, TensorFlow, PySpark, Gurobi, Power BI, Tableau",
+        "GenAI \u2013 ChatGPT, Perplexity, Grok AI, Copilot, Cursor"
     ],
     "EXPERIENCE": [
         {
@@ -27,9 +27,9 @@
             "role": "Senior Consultant \u2013 Operations",
             "dates": "March 2021 - May 2024",
             "bullets": [
-                "Implemented targeted outreach and data-driven sales strategies using analytics and customer segmentation, resulting in a 30% increase in client acquisition and contributing to approximately 15% of the team\u2019s annual revenue.",
+                "Collaborated with cross-functional teams (sales, marketing, product) to implement targeted outreach and data-driven sales strategies, increasing client acquisition by 30% and contributing to 15% of the team's annual revenue.",
                 "Automated reporting workflows and optimized data operations using Excel, SQL, and CRM tools, improving accuracy and operational efficiency across client management.",
-                "Improved client retention and sales performance by over 35% by leveraging market insights and predictive analytics to proactively address risk factors and optimize engagement strategies."
+                "Developed actionable insights and strategic recommendations, enabling sales teams to optimize engagement strategies and improve client retention by 35%, supporting marketing efforts through data-driven collateral."
             ]
         }
     ],
@@ -41,14 +41,14 @@
             "bullets": [
                 "Designed and developed a fully responsive portfolio using Next.js, Tailwind CSS, and TypeScript, showcasing personal projects, technical skills, and interactive UI components with light/dark theming and animated transitions.",
                 "Deployed on Vercel with performance optimizations, custom routing, and seamless scalability; includes dynamic resume downloads, project highlights, and a clean, modular codebase reflecting modern frontend best practices. Capital Bikeshare Summer Analysis | Tech Stack: AWS, Linux, SSH, JupyterLab GitHub",
-                "Leveraged AWS EC2 for scalable computing power, executing data manipulation tasks using Linux commands to efficiently process large datasets and derive actionable insights.",
+                "Utilized AWS EC2 to process large datasets, creating visualizations and actionable business insights, which were presented to stakeholders to inform strategic decisions.",
                 "Identified high-demand stations and frequently used bikes (Lincoln Memorial, Union Station), providing recommendations to optimize bike availability and maintenance schedules, improving system efficiency FEC Political Contributions Data Analysis | Tech Stack: AWS, SQL, Bash, PostgreSQL, Apache Spark GitHub",
-                "Analyzed political contributions to identify trends in key states (California, Texas, Florida) and the growing influence of wealthy donors and PACs, using AWS EC2, PostgreSQL, and Apache Spark to process 3.37 GB of FEC data, revealing critical insights into campaign financing.",
+                "Conducted market research on political contributions, identifying key trends in customer behavior and high-value donors across states (California, Texas, Florida), providing insights for GTM strategies in campaign finance.",
                 "Evaluated the impact of PACs like One Nation and high-value donors such as Timothy Mellon on political campaigns, highlighting the need for greater transparency and regulation in campaign finance. House Prices Prediction | Tech Stack: Kaggle, Python, Scikit-Learn, matplotlib, Gradient Boosting GitHub",
                 "Built a House Price Prediction Model: Developed a machine learning pipeline using Python and scikit-learn, achieving a validation RMSE of 27,897.11 through data preprocessing, feature engineering, and Gradient Boosting.",
                 "Optimized Model Performance: Performed hyperparameter tuning with GridSearchCV and evaluated model performance using feature importance plots and correlation heatmaps, ensuring accurate predictions for real estate analysis."
             ]
         }
     ],
-    "ADDITIONAL INFORMATION": "Certifications: Career Essentials in Data Analysis, Microsoft and LinkedIn | Foundations of Business Strategy, University of\nVirginia, Coursera\nInvolvement: Volunteer, Swachh Bharat Abhiyan - Clean India"
+    "ADDITIONAL INFORMATION": "Certifications: Career Essentials in Data Analysis, Microsoft and LinkedIn | Foundations of Business Strategy, University of\nVirginia, Coursera\nInvolvement: VP of Alumni Relations \u2013 GW Business Analytics Club | Volunteer - Swachh Bharat Abhiyan - Clean India"
 }

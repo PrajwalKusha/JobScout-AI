@@ -13,6 +13,7 @@ from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional
 from utils.logger import job_scraper_logger
 from utils.exceptions import ScrapingError, BrowserError, RateLimitError, JobScraperError
+import chromedriver_autoinstaller
 
 class IndeedScraper:
     def __init__(self, max_retries=3, retry_delay=5, max_workers=5):
@@ -497,3 +498,5 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+chromedriver_autoinstaller.install()
