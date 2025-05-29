@@ -19,7 +19,8 @@ app = FastAPI()
 # Allow CORS for frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Update if your frontend runs elsewhere
+    # allow_origins=["http://localhost:5173"],  # Update if your frontend runs elsewhere
+    allow_origins=["https://job-scout-ai.vercel.app"],  # Your Vercel URL
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
