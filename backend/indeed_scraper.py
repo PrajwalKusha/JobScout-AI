@@ -1,6 +1,6 @@
 import undetected_chromedriver as uc
-import chromedriver_autoinstaller  # ADD THIS LINE
-chromedriver_autoinstaller.install()  # ADD THIS LINE
+# import chromedriver_autoinstaller 
+# chromedriver_autoinstaller.install() 
 from bs4 import BeautifulSoup
 import json
 import time
@@ -495,4 +495,3 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 
-#chromedriver_autoinstaller.install()
