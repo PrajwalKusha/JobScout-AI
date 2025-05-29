@@ -222,3 +222,7 @@ Stacktrace:
 2025-05-28 21:59:14,014 - job_scraper - INFO - Chrome driver setup successful
 2025-05-28 21:59:14,015 - job_scraper - INFO - Starting job search for: Business Analyst in New York
 2025-05-28 21:59:27,164 - job_scraper - INFO - Chrome driver closed
+2025-05-28 23:57:08,426 - job_scraper - INFO - Setting up Chrome driver
+2025-05-28 23:57:10,963 - job_scraper - INFO - Chrome driver setup successful
+2025-05-28 23:57:10,963 - job_scraper - INFO - Starting job search for: Business Analyst in Washington, DC
+2025-05-28 23:57:27,639 - job_scraper - INFO - Chrome driver closed
