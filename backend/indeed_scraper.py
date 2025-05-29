@@ -14,6 +14,7 @@ from typing import List, Dict, Optional
 from utils.logger import job_scraper_logger
 from utils.exceptions import ScrapingError, BrowserError, RateLimitError, JobScraperError
 import chromedriver_autoinstaller
+import os 
 
 class IndeedScraper:
     def __init__(self, max_retries=3, retry_delay=5, max_workers=5):
@@ -47,10 +48,12 @@ class IndeedScraper:
             options.add_argument("--start-maximized")
             
             # Create the driver with minimal options
+            options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/usr/bin/chromium")
             self.driver = uc.Chrome(
                 options=options,
+                driver_executable_path=os.getenv("CHROMEDRIVER_PATH", "/usr/bin/chromedriver"),
                 use_subprocess=True,  # Use subprocess for better stability
-                driver_executable_path=None,  # Let it auto-detect Chrome
+                # driver_executable_path=None,  # Let it auto-detect Chrome
                 version_main=None,  # Auto-detect Chrome version
             )
             
