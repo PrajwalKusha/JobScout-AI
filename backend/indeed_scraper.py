@@ -42,16 +42,10 @@ class IndeedScraper:
             options.add_argument("--headless=new")  # ADD THIS LINE (ensure headless on cloud)
 
             # Create the driver with minimal options
-            # options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/usr/bin/chromium-browser")
             self.driver = uc.Chrome(
                 options=options,
                 use_subprocess=True,
                 version_main=None,
-            # self.driver = uc.Chrome(
-            #     options=options,
-            #     driver_executable_path=os.getenv("CHROMEDRIVER_PATH", "/usr/bin/chromedriver"),
-            #     use_subprocess=True,
-            #     version_main=None,
             )
 
             # Set up wait after driver is created
