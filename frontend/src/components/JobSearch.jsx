@@ -1,7 +1,8 @@
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
 import React, { useState } from "react";
-import { Combobox } from "@/components/Combobox";
+import Combobox from './Combobox';
+// import { Combobox } from "@/components/Combobox";
 
 const roles = [
   "Data Analyst",
