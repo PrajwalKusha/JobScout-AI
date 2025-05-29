@@ -5,13 +5,14 @@ services:
     plan: free
     buildCommand: |
       apt-get update
-      apt-get install -y chromium-browser chromium-chromedriver
+      apt-get install -y chromium-browser
       pip install -r requirements.txt
-    startCommand: uvicorn main:app --host 0.0.0.0 --port 8000
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
-      - key: CHROMEDRIVER_PATH
-        value: /usr/bin/chromedriver
+      - key: PORT
+        value: 10000
       - key: GOOGLE_CHROME_BIN
         value: /usr/bin/chromium-browser
     autoDeploy: true
     region: oregon
+    rootDir: backend
