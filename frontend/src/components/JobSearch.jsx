@@ -36,10 +36,15 @@ export default function JobSearch({ setJobs, setLoadingJobs }) {
     formData.append("role", role);
     formData.append("location", location);
     formData.append("frequency", frequency);
-    const res = await fetch("http://localhost:8000/scrape_jobs", {
-      method: "POST",
-      body: formData,
+    const API_URL = import.meta.env.VITE_API_URL;
+    const res = await fetch(`${API_URL}/scrape_jobs`, {
+    method: "POST",
+    body: formData,
     });
+    // const res = await fetch("http://localhost:8000/scrape_jobs", {
+    //   method: "POST",
+    //   body: formData,
+    // });
     const data = await res.json();
     setJobs(data.jobs);
     setLoadingJobs(false);
