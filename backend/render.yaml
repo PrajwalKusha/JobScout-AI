@@ -6,6 +6,7 @@ services:
     buildCommand: |
       apt-get update
       apt-get install -y chromium-browser
+      ln -sf /usr/bin/chromium-browser /usr/bin/google-chrome
       pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
