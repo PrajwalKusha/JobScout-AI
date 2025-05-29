@@ -5,5 +5,12 @@ requests
 PyMuPDF
 pdfplumber
 undetected-chromedriver
+chromedriver-autoinstaller
 email-validator
 pydantic
+setuptools
+beautifulsoup4
+selenium
+aiohttp
+sendgrid
+python-multipart

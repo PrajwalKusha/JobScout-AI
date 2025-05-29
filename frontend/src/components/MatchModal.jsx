@@ -13,11 +13,17 @@ function getScoreColor(score) {
 export default function MatchModal({ open, onClose, job, resume, setMatchResult, matchResult }) {
   useEffect(() => {
     if (open && job && resume) {
-      fetch("http://localhost:8000/match_job", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(job),
+      const API_URL = import.meta.env.VITE_API_URL;
+      fetch(`${API_URL}/match_job`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(job),
       })
+      // fetch("http://localhost:8000/match_job", {
+      //   method: "POST",
+      //   headers: { "Content-Type": "application/json" },
+      //   body: JSON.stringify(job),
+      // })
         .then((res) => res.json())
         .then((data) => setMatchResult(data));
     }

@@ -15,10 +15,15 @@ export default function ResumeUpload({ setResume }) {
     setUploadStatus(""); // Reset status while uploading
     const formData = new FormData();
     formData.append("file", file);
-    const res = await fetch("http://localhost:8000/upload_resume", {
-      method: "POST",
-      body: formData,
+    const API_URL = import.meta.env.VITE_API_URL;
+    const res = await fetch(`${API_URL}/upload_resume`, {
+    method: "POST",
+    body: formData,
     });
+    // const res = await fetch("http://localhost:8000/upload_resume", {
+    //   method: "POST",
+    //   body: formData,
+    // });
     const data = await res.json();
     setResume(data.resume);
     setUploadStatus("Resume uploaded and parsed!");

@@ -30,11 +30,17 @@ export default function ExportControls({ jobs }) {
   const handleSendEmail = async () => {
     setSending(true);
     try {
-      const res = await fetch("http://localhost:8000/send_jobs_email", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, jobs }),
+      const API_URL = import.meta.env.VITE_API_URL;
+      const res = await fetch(`${API_URL}/send_jobs_email`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email, jobs }),
       });
+      // const res = await fetch("http://localhost:8000/send_jobs_email", {
+      //   method: "POST",
+      //   headers: { "Content-Type": "application/json" },
+      //   body: JSON.stringify({ email, jobs }),
+      // });
       if (res.ok) setSent(true);
     } finally {
       setSending(false);

@@ -2,8 +2,18 @@ services:
   - type: web
     name: jobscout-backend
     env: python
-    buildCommand: pip install -r requirements.txt
+    plan: free
+    buildCommand: |
+      apt-get update
+      apt-get install -y chromium-browser
+      ln -sf /usr/bin/chromium-browser /usr/bin/google-chrome
+      pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.12.0
+      - key: PORT
+        value: 10000
+      - key: GOOGLE_CHROME_BIN
+        value: /usr/bin/chromium-browser
+    autoDeploy: true
+    region: oregon
+    rootDir: backend
