@@ -3,7 +3,7 @@ services:
     name: jobscout-backend
     env: python
     buildCommand: |
-      apt-get update && apt-get install -y chromium chromium-driver
+      apt-get update && apt-get install -y chromium chromium-chromedriver
       pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
@@ -12,4 +12,4 @@ services:
       - key: GOOGLE_CHROME_BIN
         value: /usr/bin/chromium
       - key: CHROMEDRIVER_PATH
-        value: /usr/bin/chromedriver
+        value: /usr/lib/chromium-browser/chromedriver
