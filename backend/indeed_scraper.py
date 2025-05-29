@@ -48,15 +48,14 @@ class IndeedScraper:
             options.add_argument("--start-maximized")
             
             # Create the driver with minimal options
-            options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/usr/bin/chromium")
+            options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/opt/chrome/chrome")
             self.driver = uc.Chrome(
                 options=options,
                 driver_executable_path=os.getenv("CHROMEDRIVER_PATH", "/usr/bin/chromedriver"),
-                use_subprocess=True,  # Use subprocess for better stability
-                # driver_executable_path=None,  # Let it auto-detect Chrome
-                version_main=None,  # Auto-detect Chrome version
+                use_subprocess=True,
+                version_main=None,
             )
-            
+         
             # Set up wait after driver is created
             self.wait = WebDriverWait(self.driver, 15)  # Increased timeout to 15 seconds
             
