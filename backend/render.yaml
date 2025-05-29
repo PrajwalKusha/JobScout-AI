@@ -18,9 +18,13 @@ services:
     pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.12.0
       - key: GOOGLE_CHROME_BIN
-        value: /usr/bin/chromium
+        value: /opt/chrome/chrome
       - key: CHROMEDRIVER_PATH
         value: /usr/bin/chromedriver
+      - key: PYTHON_VERSION
+        value: 3.12.0
+      # - key: GOOGLE_CHROME_BIN
+      #   value: /usr/bin/chromium
+      # - key: CHROMEDRIVER_PATH
+      #   value: /usr/bin/chromedriver
