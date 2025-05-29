@@ -3,8 +3,13 @@ services:
     name: jobscout-backend
     env: python
     buildCommand: |
-      apt-get update && apt-get install -y chromium chromium-chromedriver
-      pip install -r requirements.txt
+    apt-get update
+    apt-get install -y chromium
+    wget -O /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+    unzip /tmp/chromedriver.zip -d /tmp/
+    mv /tmp/chromedriver /usr/bin/chromedriver
+    chmod +x /usr/bin/chromedriver
+    pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
