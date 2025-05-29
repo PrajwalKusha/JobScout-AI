@@ -1,4 +1,6 @@
 import undetected_chromedriver as uc
+import chromedriver_autoinstaller  # ADD THIS LINE
+chromedriver_autoinstaller.install()  # ADD THIS LINE
 from bs4 import BeautifulSoup
 import json
 import time
@@ -13,19 +15,10 @@ from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional
 from utils.logger import job_scraper_logger
 from utils.exceptions import ScrapingError, BrowserError, RateLimitError, JobScraperError
-# import chromedriver_autoinstaller
-import os 
+import os
 
 class IndeedScraper:
     def __init__(self, max_retries=3, retry_delay=5, max_workers=5):
-        """
-        Initialize the Indeed scraper.
-        
-        Args:
-            max_retries (int): Maximum number of retries for failed requests
-            retry_delay (int): Delay between retries in seconds
-            max_workers (int): Maximum number of concurrent workers
-        """
         self.max_retries = max_retries
         self.retry_delay = retry_delay
         self.max_workers = max_workers
@@ -38,7 +31,7 @@ class IndeedScraper:
         try:
             job_scraper_logger.info("Setting up Chrome driver")
             options = uc.ChromeOptions()
-            
+
             # Basic options that are supported by undetected_chromedriver
             options.add_argument("--no-sandbox")
             options.add_argument("--disable-dev-shm-usage")
@@ -46,19 +39,20 @@ class IndeedScraper:
             options.add_argument("--disable-extensions")
             options.add_argument("--disable-notifications")
             options.add_argument("--start-maximized")
-            
+            options.add_argument("--headless=new")  # ADD THIS LINE (ensure headless on cloud)
+
             # Create the driver with minimal options
-            options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/opt/chrome/chrome")
+            options.binary_location = os.getenv("GOOGLE_CHROME_BIN", "/usr/bin/chromium-browser")
             self.driver = uc.Chrome(
                 options=options,
                 driver_executable_path=os.getenv("CHROMEDRIVER_PATH", "/usr/bin/chromedriver"),
                 use_subprocess=True,
                 version_main=None,
             )
-         
+
             # Set up wait after driver is created
             self.wait = WebDriverWait(self.driver, 15)  # Increased timeout to 15 seconds
-            
+
             job_scraper_logger.info("Chrome driver setup successful")
         except Exception as e:
             error_msg = f"Failed to setup Chrome driver: {str(e)}"
