@@ -8,3 +8,7 @@ undetected-chromedriver
 email-validator
 pydantic
 setuptools
+beautifulsoup4
+selenium
+aiohttp
+sendgrid
