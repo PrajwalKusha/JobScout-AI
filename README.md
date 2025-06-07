@@ -3,7 +3,7 @@
 **Your AI-Powered Job Matching Assistant**  
 Match your resume to real-time job listings, get intelligent suggestions, download results, and email them — all in one place.
 
-![JobScout AI Banner](![Screenshot 2025-06-07 at 5 24 46 PM](https://github.com/user-attachments/assets/4c04b4d9-723c-4d57-ae79-835661c53795)) <!-- Optional banner -->
+[JobScout AI Banner][Screenshot 2025-06-07 at 5 24 46 PM](https://github.com/user-attachments/assets/4c04b4d9-723c-4d57-ae79-835661c53795) <!-- Optional banner -->
 
 ---
 
