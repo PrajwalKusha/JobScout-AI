@@ -25,7 +25,7 @@ Match your resume to real-time job listings, get intelligent suggestions, downlo
 ## ✨ Features
 
 - 📄 Upload your resume (PDF)
-- 🔎 Search job listings by role & location
+- 🔎 Search job listings by role & location (Support for Job listing from Indeed only) 
 - 🤖 Get AI-generated skill match analysis using GPT-3.5
 - 📈 Download results as `.csv`
 - 📬 Send results to any email using SendGrid
@@ -132,10 +132,9 @@ The frontend will run at `http://localhost:5173`.
 
 ---
 
-## 🧪 Demo Video (Coming Soon)
+## 🧪 Demo Video 
 
-🎥 A short walkthrough video showing full functionality will be added soon.  
-Stay tuned!
+🎥 A short walkthrough video showing full functionality is up on LinkedIn.  
 
 ---
 
