@@ -17,7 +17,7 @@ Match your resume to real-time job listings, get intelligent suggestions, downlo
 - Downloadable CSV results  
 - Email delivery of results using Twilio SendGrid
 
-⚡ **Live Frontend Demo:** [https://prajwalkusha.vercel.app](https://prajwalkusha.vercel.app)  
+⚡ **Live Frontend Demo:** [(https://job-scout-ai.vercel.app/)](https://job-scout-ai.vercel.app/))  
 🛠️ **Full functionality (including scraping and AI) requires local backend**
 
 ---
